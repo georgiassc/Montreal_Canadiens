@@ -16,7 +16,7 @@ First, it's necessary run pandas in your device:
 ```
 import pandas as pd
 ```
-Then, you will need to import the titanic dataset. It's available in this repository as nhlplayoffs.csv or at https://www.kaggle.com/datasets/mattop/nhl-stanley-cup-playoffs-1918-2022
+Then, you will need to import the titanic dataset. It's available in this repository as _nhlplayoffs.csv_ or at https://www.kaggle.com/datasets/mattop/nhl-stanley-cup-playoffs-1918-2022
 ```
 titanic = pd.read_csv ('nhlplayoffs.csv')
 ```
