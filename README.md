@@ -16,9 +16,7 @@ The main objective with this process is:
     3. What was the Montreal Canadiens' worst playoff season?
     5. What is the Montreal Canadiens' success rate in playoff series compared to other NHL teams?
     6. What is the average number of goals scored and conceded by the Montreal Canadiens in each playoff season?
-    7. How has the Montreal Canadiens' playoff performance changed over the decades?
-    8. Who were the Montreal Canadiens' most frequent opponents in the playoffs?
-  
+
 The process can be found in the file: Data_Cleaning_MontrealCanadiens.ipynb
 
 ## Getting started
