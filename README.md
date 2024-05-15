@@ -9,10 +9,11 @@ The main objective with this process is:
 * to do a good cleaning of the data, taking into account null and unimportant values <br />
 * understand some characteristics of the team during the playoffs
 * answer the following questions:
+    1. What years did the Montreal Canadiens win the Stanley Cup?
+
     1. How did the Montreal Canadiens perform overall in the playoffs over the years?
     2. What was the Montreal Canadiens' best playoff season?
     3. What was the Montreal Canadiens' worst playoff season?
-    4. What years did the Montreal Canadiens win the Stanley Cup?
     5. What is the Montreal Canadiens' success rate in playoff series compared to other NHL teams?
     6. What is the average number of goals scored and conceded by the Montreal Canadiens in each playoff season?
     7. How has the Montreal Canadiens' playoff performance changed over the decades?
