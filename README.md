@@ -10,11 +10,9 @@ The main objective with this process is:
 * understand some characteristics of the team during the playoffs
 * answer the following questions:
     1. What years did the Montreal Canadiens win the Stanley Cup?
-    2. How did the Montreal Canadiens perform overall in the playoffs over the years?
- 
-       
-    2. What was the Montreal Canadiens' best playoff season?
-    3. What was the Montreal Canadiens' worst playoff season?
+    2. How did the Montreal Canadiens perform over the years?  
+    3. What was the Montreal Canadiens' best playoff season?
+    4. What was the Montreal Canadiens' worst playoff season?
     5. What is the Montreal Canadiens' success rate in playoff series compared to other NHL teams?
     6. What is the average number of goals scored and conceded by the Montreal Canadiens in each playoff season?
 
