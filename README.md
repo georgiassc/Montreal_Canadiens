@@ -17,9 +17,12 @@ The main objective with this process is:
 The process can be found in the file: Data_Cleaning_MontrealCanadiens.ipynb
 
 ## Getting started
-First, it's necessary run pandas in your device:
+First, it's necessary run pandas in your device and matplotlib library: 
 ```
 import pandas as pd
+```
+```
+import matplotlib.pyplot as plt
 ```
 Then, you will need to import the titanic dataset. It's available in this repository as _nhlplayoffs.csv_ or at https://www.kaggle.com/datasets/mattop/nhl-stanley-cup-playoffs-1918-2022
 ```
